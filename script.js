@@ -1,7 +1,4 @@
 const count = document.querySelector('.count');
-// const sub = document.querySelector('.subtract');
-// const rest = document.querySelector('.restart');
-// const add = document.querySelector('.add');
 const btn = document.querySelector('.buttons');
 
 btn.addEventListener('click', function (e) {
