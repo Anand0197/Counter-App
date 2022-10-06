@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 
 :root {
-  --white: #fff;
-  --black: #1c2b2d;
-  --blue: #31326f;
+  --orangered: rgba(200, 78, 41, 0.541);
+  --blue: #6869c5;
+  --green: rgb(131, 239, 131);
   --light-blue: #005490;
-  --color-primary: #9d0191;
-  --color-sec: #db6400;
-  --grey: #eee;
-  --dark-grey: #222831;
+  --black: rgba(11, 15, 13, 0.73);
 }
 
 * {
@@ -58,7 +55,7 @@ h2 {
 }
 .count {
   font-size: 3.2rem;
-  color: #0b0f0dba;
+  color: rgba(11, 15, 13, 0.73);
   margin: 0 auto;
 }
 .buttons {
